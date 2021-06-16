@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fb-navbar-animation/static/css/main.1a2d9b04.chunk.css",
+    "main.js": "/fb-navbar-animation/static/js/main.2d8f611c.chunk.js",
+    "main.js.map": "/fb-navbar-animation/static/js/main.2d8f611c.chunk.js.map",
+    "runtime-main.js": "/fb-navbar-animation/static/js/runtime-main.09fa23dd.js",
+    "runtime-main.js.map": "/fb-navbar-animation/static/js/runtime-main.09fa23dd.js.map",
+    "static/js/2.cc9ed6bd.chunk.js": "/fb-navbar-animation/static/js/2.cc9ed6bd.chunk.js",
+    "static/js/2.cc9ed6bd.chunk.js.map": "/fb-navbar-animation/static/js/2.cc9ed6bd.chunk.js.map",
+    "static/js/3.49d329e6.chunk.js": "/fb-navbar-animation/static/js/3.49d329e6.chunk.js",
+    "static/js/3.49d329e6.chunk.js.map": "/fb-navbar-animation/static/js/3.49d329e6.chunk.js.map",
+    "index.html": "/fb-navbar-animation/index.html",
+    "static/css/main.1a2d9b04.chunk.css.map": "/fb-navbar-animation/static/css/main.1a2d9b04.chunk.css.map",
+    "static/js/2.cc9ed6bd.chunk.js.LICENSE.txt": "/fb-navbar-animation/static/js/2.cc9ed6bd.chunk.js.LICENSE.txt",
+    "static/media/arrow.2e552680.svg": "/fb-navbar-animation/static/media/arrow.2e552680.svg",
+    "static/media/bell.f0c76da2.svg": "/fb-navbar-animation/static/media/bell.f0c76da2.svg",
+    "static/media/bolt.bbfd3d7a.svg": "/fb-navbar-animation/static/media/bolt.bbfd3d7a.svg",
+    "static/media/caret.17f0a4fb.svg": "/fb-navbar-animation/static/media/caret.17f0a4fb.svg",
+    "static/media/chevron.52254b8e.svg": "/fb-navbar-animation/static/media/chevron.52254b8e.svg",
+    "static/media/cog.8c5b9138.svg": "/fb-navbar-animation/static/media/cog.8c5b9138.svg",
+    "static/media/messenger.39261066.svg": "/fb-navbar-animation/static/media/messenger.39261066.svg",
+    "static/media/plus.d5a88a59.svg": "/fb-navbar-animation/static/media/plus.d5a88a59.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09fa23dd.js",
+    "static/js/2.cc9ed6bd.chunk.js",
+    "static/css/main.1a2d9b04.chunk.css",
+    "static/js/main.2d8f611c.chunk.js"
+  ]
+}
